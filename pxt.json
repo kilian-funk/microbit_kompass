@@ -1,5 +1,5 @@
 {
-    "name": "step counter",
+    "name": "microbit compas",
     "description": "",
     "dependencies": {
         "core": "*",
